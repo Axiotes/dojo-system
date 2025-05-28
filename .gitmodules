@@ -1,0 +1,12 @@
+[submodule "api-dojo-system"]
+	path = api-dojo-system
+	url = git@github.com:Axiotes/api-dojo-system.git
+	branch = main
+[submodule "app-dojo-system"]
+	path = app-dojo-system
+	url = git@github.com:Axiotes/app-dojo-system.git
+	branch = main
+[submodule "docs-dojo-system"]
+	path = docs-dojo-system
+	url = git@github.com:Axiotes/docs-dojo-system.git
+	branch = main
